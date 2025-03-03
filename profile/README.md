@@ -53,4 +53,5 @@ its super buggy; I have no idea how people survive on Windows.
 Things I love with the power of a thousand suns:
 - **Gleam**-I have never learned a language so quickly
 - **Elixir**-Simply amazing, never before have I enjoyed creating a web app.
-    -Note: The none of the above languages in this section are in use at Cirkl, I just personaly like them ;)
+
+  -Note: The none of the above languages in this section are in use at Cirkl, I just personaly like them ;)

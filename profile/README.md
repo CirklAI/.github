@@ -38,7 +38,7 @@ Our tech stack
     - C++
 
 ---
-## Rant
+## Thoq's Rant
 
 Things I hate with a burning passion:
 - **VSCode**-Electron is slow and VSCode is no exception, it's massive on a drive and in memory

@@ -16,7 +16,7 @@ Our favorite languages (in no specific order):
 - **Rust**-Really fun, and it's quite splendid for network facing software
 - **JS**-Absolutely terrible but also amazing
 
-Out favorite technologies
+Our favorite technologies
 - **QT**-Its really nice and amazing for cross-platform UI development
 - **JQuery**-Simple, concise and really easy to work with, at this point it should be a part of ECMAScript
 - **ThreeJS**-Really cool, allows for fun effects in browser
@@ -43,9 +43,14 @@ Our tech stack
 Things I hate with a burning passion:
 - **VSCode**-Electron is slow and VSCode is no exception, it's massive on a drive and in memory
 - **Electron**-no
-- **People who say C++ is unsafe and Rust is better**-I like both, please just leave it at both are good!
+- **People who say C++ is unsafe and Rust is better**-I like both, please just leave it at both are good, both have up's and down's!
 - **GTK (On windows)**-GTK looks pretty, it's a shame it's an **ABSOLUTE PAIN** to get working on Windows! Oh, speaking of...
 - **Windows**—Terrible os, AI infested + most games do work on linux, thanks to valve! It also doesn't even look that good and
 its super buggy; I have no idea how people survive on Windows.
 - **Me**-I create Most of the problems I encounter.
 - **Oracle**-Breh, release the JS trademark already ([Deno v. Oracle](https://deno.com/blog/deno-v-oracle))
+
+Things I love with the power of a thousand suns:
+- **Gleam**-I have never learned a language so quickly
+- **Elixir**-Simply amazing, never before have I enjoyed creating a web app.
+    -Note: The none of the above languages in this section are in use at Cirkl, I just personaly like them ;)

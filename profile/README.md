@@ -20,7 +20,7 @@ Our favorite technologies
 - **Kotlin Multiplatform**-Its really nice and amazing for cross-platform UI development
 - **JQuery**-Simple, concise and really easy to work with, at this point it should be a part of ECMAScript
 - **ThreeJS**-Really cool, allows for fun effects in browser
-- **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ is awesome, CLion has saved my legs.
+- **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ has saved my brain, CLion has saved my legs.
 - **macOS**-Beautiful UI, amazing stability
 - **Linux**-Amazing on the server, amazing on the Desktop (i use arch btw)
 - **Deno**-While not used in frontend as we use Spring there, it is used to create CLI's for automation and it's amazing

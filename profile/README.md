@@ -11,13 +11,13 @@ while keeping you safe from malware and trackers.
 ---
 ## Nerdy stuff
 Our favorite languages (in no specific order):
-- **C++**-It's fast and not a pain in the donkey
+- **Kotlin**-It's fast, easy to write and compatible
 - **Java**-It's Robust, and Spring boot is pretty dang nice, oh, it's also great for prototyping
 - **Rust**-Really fun, and it's quite splendid for network facing software
 - **JS**-Absolutely terrible but also amazing
 
 Our favorite technologies
-- **QT**-Its really nice and amazing for cross-platform UI development
+- **Kotlin Multiplatform**-Its really nice and amazing for cross-platform UI development
 - **JQuery**-Simple, concise and really easy to work with, at this point it should be a part of ECMAScript
 - **ThreeJS**-Really cool, allows for fun effects in browser
 - **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ is awesome, CLion has saved my legs.
@@ -31,18 +31,19 @@ Our tech stack
     - ThreeJS (and GLSL)
     - JQuery
 - Celestial (AV)
-    - [QT](https://qt.io)6
-    - C++
+    - [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
+    - Kotlin
 - Vega (Browser)
-    - [QT](https://qt.io)6
-    - C++
+    - [Electron](https://www.electronjs.org)
+    - [Tailwind](https://tailwindcss.com)
+    - TS
 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant
 
 Things I hate with a burning passion:
 - **VSCode**-Electron is slow and VSCode is no exception, it's massive on a drive and in memory
-- **Electron**-no
+- **Electron**-people dont know how to properly optimize it, I hate electron apps but not Electron itself
 - **People who say C++ is unsafe and Rust is better**-I like both, please just leave it at both are good, both have up's and down's!
 - **GTK (On windows)**-GTK looks pretty, it's a shame it's an **ABSOLUTE PAIN** to get working on Windows! Oh, speaking of...
 - **Windows**—Terrible os, AI infested + most games do work on linux, thanks to valve! It also doesn't even look that good and

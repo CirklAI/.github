@@ -28,7 +28,7 @@ Our tech stack
 - [cirkl.ai](https://cirkl.ai) (Website)
     - [Next.js](https://nextjs.org)-So nice, ez to self host
     - [Node.js](https://nodejs.org)-Backbone of Next.js
-- Celestial (AV)
+- Celestial (Anti-Malware solution)
     - [C++](https://en.wikipedia.org/wiki/C%2B%2B)-For desktop app
     - [ImGui](https://github.com/ocornut/imgui)-For desktop UI
 - Discord Bot ([Our Discord](https://discord.com/invite/3yCfXJsbpD))

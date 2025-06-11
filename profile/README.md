@@ -56,4 +56,4 @@ Things I love with the power of a thousand suns:
 - **Elixir**-Simply amazing, never before have I enjoyed creating a web app.
 - **Rust**-The G.O.A.T
 
-  -Note: The not all of the above languages in this section are in use at Cirkl, I just personaly like them ;)
+> Note: The not all of the above languages in this section are in use at Cirkl, I just personaly like them ;)

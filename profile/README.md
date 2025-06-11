@@ -37,7 +37,7 @@ Our tech stack
 - API(s)
     - [Deno](https://deno.land)-As runtime
     - [TypeScript](https://www.typescriptlang.org/)-As language
-    - 
+
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant
 

@@ -11,33 +11,33 @@ while keeping you safe from malware and trackers.
 ---
 ## Nerdy stuff
 Our favorite languages (in no specific order):
-- **Kotlin**-It's fast, easy to write and compatible
-- **Java**-It's Robust, and Spring boot is pretty dang nice, oh, it's also great for prototyping
 - **Rust**-Really fun, and it's quite splendid for network facing software
+- **C++**-Fast, versitile and not unsafe if you know what you're doing
 - **JS**-Absolutely terrible but also amazing
+- **TS**-JS but with types ;)
 
 Our favorite technologies
-- **Kotlin Multiplatform**-Its really nice and amazing for cross-platform UI development
-- **JQuery**-Simple, concise and really easy to work with, at this point it should be a part of ECMAScript
-- **ThreeJS**-Really cool, allows for fun effects in browser
 - **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ has saved my brain, CLion has saved my legs.
-- **macOS**-Beautiful UI, amazing stability
+- **macOS**-Beautiful UI, amazing stability (im excited for macOS 26!)
 - **Linux**-Amazing on the server, amazing on the Desktop (i use arch btw)
-- **Deno**-While not used in frontend as we use Spring there, it is used to create CLI's for automation and it's amazing
+- **Deno**-While not used in frontend as we use Node there, it is used to create **all** the backend APIs for Cirkl
 
 Our tech stack
+- Engine (Core, celestial_rs)
+    - [Rust](https://rust-lang.org)-So amazing to work with
 - [cirkl.ai](https://cirkl.ai) (Website)
-    - Java Spring Boot
-    - ThreeJS (and GLSL)
-    - JQuery
+    - [Next.js](https://nextjs.org)-So nice, ez to self host
+    - [Node.js](https://nodejs.org)-Backbone of Next.js
 - Celestial (AV)
-    - [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
-    - Kotlin
-- Vega (Browser)
-    - [Electron](https://www.electronjs.org)
-    - [Tailwind](https://tailwindcss.com)
-    - TS
-
+    - [C++](https://en.wikipedia.org/wiki/C%2B%2B)-For desktop app
+    - [ImGui](https://github.com/ocornut/imgui)-For desktop UI
+- Discord Bot ([Our Discord](https://discord.com/invite/3yCfXJsbpD))
+    - [Deno](https://deno.land)-As runtime
+    - [TypeScript](https://www.typescriptlang.org/)-As language
+- API(s)
+    - [Deno](https://deno.land)-As runtime
+    - [TypeScript](https://www.typescriptlang.org/)-As language
+    - 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant
 
@@ -54,5 +54,6 @@ its super buggy; I have no idea how people survive on Windows.
 Things I love with the power of a thousand suns:
 - **Gleam**-I have never learned a language so quickly
 - **Elixir**-Simply amazing, never before have I enjoyed creating a web app.
+- **Rust**-The G.O.A.T
 
-  -Note: The none of the above languages in this section are in use at Cirkl, I just personaly like them ;)
+  -Note: The not all of the above languages in this section are in use at Cirkl, I just personaly like them ;)

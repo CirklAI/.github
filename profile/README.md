@@ -29,21 +29,20 @@ Our tech stack
     - [Next.js](https://nextjs.org)-So nice, ez to self host
     - [Node.js](https://nodejs.org)-Backbone of Next.js
 - Celestial (Anti-Malware solution)
-    - [C++](https://en.wikipedia.org/wiki/C%2B%2B)-For desktop app
-    - [ImGui](https://github.com/ocornut/imgui)-For desktop UI
+    - [GTK](http://gtk.org)-For desktop UI
+    - [Rust (Again)](https://rust-lang.org)-For desktop app
 - Discord Bot ([Our Discord](https://discord.com/invite/3yCfXJsbpD))
     - [Deno](https://deno.land)-As runtime
     - [TypeScript](https://www.typescriptlang.org/)-As language
 - API(s)
-    - [Deno](https://deno.land)-As runtime
-    - [TypeScript](https://www.typescriptlang.org/)-As language
+    - [Rust (Yes, again)](https://rust-lang.org)-As runtime
 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant
 
 Things I hate with a burning passion:
 - **VSCode**-Electron is slow and VSCode is no exception, it's massive on a drive and in memory
-- **Electron**-people dont know how to properly optimize it, I hate electron apps but not Electron itself
+- **Electron**-people dont know how to properly optimize it, I hate electron apps but not Electron itself (usually)
 - **People who say C++ is unsafe and Rust is better**-I like both, please just leave it at both are good, both have up's and down's!
 - **GTK (On windows)**-GTK looks pretty, it's a shame it's an **ABSOLUTE PAIN** to get working on Windows! Oh, speaking of...
 - **Windows**—Terrible os, AI infested + most games do work on linux, thanks to valve! It also doesn't even look that good and

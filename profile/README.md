@@ -12,15 +12,14 @@ while keeping you safe from malware and trackers.
 ## Nerdy stuff
 Our favorite languages (in no specific order):
 - **Rust**-Really fun, and it's quite splendid for network facing software
-- **C++**-Fast, versitile and not unsafe if you know what you're doing
+- **C#**-Fast, versitile and AvaloniaUI is great :)
 - **JS**-Absolutely terrible but also amazing
 - **TS**-JS but with types ;)
 
 Our favorite technologies
-- **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ has saved my brain, CLion has saved my legs.
-- **macOS**-Beautiful UI, amazing stability (im excited for macOS 26!)
-- **Linux**-Amazing on the server, amazing on the Desktop (i use arch btw)
-- **Deno**-While not used in frontend as we use Node there, it is used to create **all** the backend APIs for Cirkl
+- **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ has saved my brain, Rider has stopped me from using Visual Studio (and Code)
+- **macOS**-Beautiful UI, amazing stability (update: macOS 26 is nice)
+- **Linux**-Amazing on the server, amazing on the Desktop
 
 Our tech stack
 - Engine (Core, celestial_rs)
@@ -29,13 +28,13 @@ Our tech stack
     - [Next.js](https://nextjs.org)-So nice, ez to self host
     - [Node.js](https://nodejs.org)-Backbone of Next.js
 - Celestial (Anti-Malware solution)
-    - [GTK](http://gtk.org)-For desktop UI
-    - [Rust (Again)](https://rust-lang.org)-For desktop app
+    - [Avalonia](https://avaloniaui.net/)-For desktop UI
+    - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)-For desktop app
 - Discord Bot ([Our Discord](https://discord.com/invite/3yCfXJsbpD))
     - [Deno](https://deno.land)-As runtime
     - [TypeScript](https://www.typescriptlang.org/)-As language
 - API(s)
-    - [Rust (Yes, again)](https://rust-lang.org)-As runtime
+    - [Rust (Yes, again)](https://rust-lang.org)-As language
 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant

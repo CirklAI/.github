@@ -14,7 +14,7 @@ Our favorite languages (in no specific order):
 - **Rust**-Really fun, and it's quite splendid for network facing code, also multithreadding is easy peasy
 - **C#**-Fast, versitile and AvaloniaUI is great :)
 - **JS**-Absolutely terrible but also amazing
-- **TS**-JS but with types ;)
+- **TS**-JS but with types ;) (still a pain)
 
 Our favorite technologies
 - **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ has saved my brain, Rider has stopped me from using Visual Studio (and Code)

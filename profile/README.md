@@ -28,8 +28,8 @@ Our tech stack
     - [Next.js](https://nextjs.org)-So nice, ez to self host
     - [Node.js](https://nodejs.org)-Backbone of Next.js
 - Celestial (Anti-Malware solution)
-    - [Avalonia](https://avaloniaui.net/)-For desktop UI
-    - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)-For desktop app
+    - [Tauri](https://tauri.app/)-For desktop UI
+    - [Rust](https://rust-lang.org)-For desktop app
 - Discord Bot ([Our Discord](https://discord.com/invite/3yCfXJsbpD))
     - [Deno](https://deno.land)-As runtime
     - [TypeScript](https://www.typescriptlang.org/)-As language

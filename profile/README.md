@@ -12,7 +12,7 @@ while keeping you safe from malware and trackers.
 ## Nerdy stuff
 Our favorite languages (in no specific order):
 - **Rust**-Really fun, and it's quite splendid for network facing code, also multithreadding is easy peasy
-- **C#**-Fast, versitile and AvaloniaUI is great :)
+- **Crystal**-I think i like Crystal
 - **JS**-Absolutely terrible but also amazing
 - **TS**-JS but with types ;) (still a pain)
 

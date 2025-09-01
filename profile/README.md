@@ -31,7 +31,7 @@ Our tech stack
     - [Tauri](https://tauri.app/)-For desktop UI
     - [Rust](https://rust-lang.org)-For desktop app
 - Discord Bot ([Our Discord](https://discord.com/invite/3yCfXJsbpD))
-    - [Deno](https://deno.land)-As runtime
+    - [Bun](https://bun.sh)-As runtime
     - [TypeScript](https://www.typescriptlang.org/)-As language
 - API(s)
     - [Rust (Yes, again)](https://rust-lang.org)-As language

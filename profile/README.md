@@ -25,8 +25,8 @@ Our tech stack
 - Engine (Core, celestial_core)
     - [C++](https://cplusplus.com/)-So amazing to work with, especially when you want high-level abstractions and low level control
 - [cirkl.ai](https://cirkl.ai) (Website)
-    - [Fresh](https://fresh.deno.com)-So nice, ez to self host and islands architecture
-    - [Node.js](https://deno.land)-Backbone of Fresh
+    - [Fresh](https://fresh.deno.dev)-So nice, ez to self host and islands architecture
+    - [Deno](https://deno.land)-Backbone of Fresh
 - Celestial (Anti-Malware solution)
     - [FLTK](https://fltk.org)-For desktop UI
     - [C++](https://cplusplus.com/)-For desktop app

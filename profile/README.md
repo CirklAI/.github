@@ -11,30 +11,30 @@ while keeping you safe from malware and trackers.
 ---
 ## Nerdy stuff
 Our favorite languages (in no specific order):
-- **Rust**-Really fun, and it's quite splendid for network facing code, also multithreadding is easy peasy
-- **Crystal**-I think i like Crystal
+- **C++**-Really fun, and it's quite splendid for low-level code, also multithreadding is easy peasy compared to C
+- **Kotlin**-Really, REALLY nice with the [Ktor](https://ktor.io) framework, it makes API insanely easy (also mobile apps with KMP)
 - **JS**-Absolutely terrible but also amazing
 - **TS**-JS but with types ;) (still a pain)
 
 Our favorite technologies
-- **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ has saved my brain, Rider has stopped me from using Visual Studio (and Code)
-- **macOS**-Beautiful UI, amazing stability (update: macOS 26 is nice)
+- **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ has saved my brain, CLion saved my legs
+- **macOS**-Beautiful UI, amazing stability (update: macOS 26 is horribly buggy and also really nice)
 - **Linux**-Amazing on the server, amazing on the Desktop
 
 Our tech stack
-- Engine (Core, celestial_rs)
-    - [Rust](https://rust-lang.org)-So amazing to work with
+- Engine (Core, celestial_core)
+    - [C++](https://cplusplus.com/)-So amazing to work with, especially when you want high-level abstractions and low level control
 - [cirkl.ai](https://cirkl.ai) (Website)
-    - [Next.js](https://nextjs.org)-So nice, ez to self host
-    - [Node.js](https://nodejs.org)-Backbone of Next.js
+    - [Fresh](https://fresh.deno.com)-So nice, ez to self host and islands architecture
+    - [Node.js](https://deno.land)-Backbone of Fresh
 - Celestial (Anti-Malware solution)
-    - [Tauri](https://tauri.app/)-For desktop UI
-    - [Rust](https://rust-lang.org)-For desktop app
+    - [FLTK](https://fltk.org)-For desktop UI
+    - [C++](https://cplusplus.com/)-For desktop app
 - Discord Bot ([Our Discord](https://discord.com/invite/3yCfXJsbpD))
-    - [Bun](https://bun.sh)-As runtime
+    - [Deno](https://deno.land)-As runtime
     - [TypeScript](https://www.typescriptlang.org/)-As language
 - API(s)
-    - [Rust (Yes, again)](https://rust-lang.org)-As language
+    - [Kotlin](https://kotl.in)-As language
 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant

@@ -35,6 +35,7 @@ Our tech stack
     - [TypeScript](https://www.typescriptlang.org/)-As language
 - API(s)
     - [Kotlin](https://kotl.in)-As language
+    - [Ktor](https://ktor.io)-As framework
 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant

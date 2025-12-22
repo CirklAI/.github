@@ -12,6 +12,7 @@ while keeping you safe from malware and trackers.
 ## Nerdy stuff
 Our favorite languages (in no specific order):
 - **C++**-Really fun, and it's quite splendid for low-level code, also multithreadding is easy peasy compared to C
+- **Zig**-Fun to learn, good for high-performance and low level control with enhanced safety
 - **Kotlin**-Really, REALLY nice with the [Ktor](https://ktor.io) framework, it makes API insanely easy (also mobile apps with KMP)
 - **JS**-Absolutely terrible but also amazing
 - **TS**-JS but with types ;) (still a pain)
@@ -36,6 +37,9 @@ Our tech stack
 - API(s)
     - [Kotlin](https://kotl.in)-As language
     - [Ktor](https://ktor.io)-As framework
+- [Dactyl](https://github.com/CirklAI/dactyl.git)
+    - [Zig](https://ziglang.org)-As language
+    - Custom JSON5-based DSL-Rule language
 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant

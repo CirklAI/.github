@@ -44,7 +44,7 @@ Our tech stack
 - [Registry](https://registry.cirkl.ai)
     - [Dart](https://dart.dev)-As language
     - [Pub](https://pub.dev)-As package manager
-    - [HTML + CSS + JS](w3.org)-As frontend
+    - [HTML + CSS + JS](https://w3.org)-As frontend
 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant

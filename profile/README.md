@@ -16,6 +16,7 @@ Our favorite languages (in no specific order):
 - **Kotlin**-Really, REALLY nice with the [Ktor](https://ktor.io) framework, it makes API insanely easy (also mobile apps with KMP)
 - **JS**-Absolutely terrible but also amazing
 - **TS**-JS but with types ;) (still a pain)
+- **Dart**-Really nice, performant and simple language with a familiar syntax and easy to make APIs in and software in general.
 
 Our favorite technologies
 - **Anything from [JetBrains](https://jetbrains.com)**-IntelliJ has saved my brain, CLion saved my legs
@@ -40,6 +41,10 @@ Our tech stack
 - [Dactyl](https://github.com/CirklAI/dactyl.git)
     - [Zig](https://ziglang.org)-As language
     - Custom JSON5-based DSL-Rule language
+- [Registry](https://registry.cirkl.ai)
+    - [Dart](https://dart.dev)-As language
+    - [Pub](https://pub.dev)-As package manager
+    - [HTML + CSS + JS](w3.org)-As frontend
 
 ---
 ## [Thoq's](https://thoq-jar.github.io) Rant

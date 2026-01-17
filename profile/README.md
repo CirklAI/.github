@@ -12,8 +12,7 @@ while keeping you safe from malware and trackers.
 ## Nerdy stuff
 Our favorite languages (in no specific order):
 - **C++**-Really fun, and it's quite splendid for low-level code, also multithreadding is easy peasy compared to C
-- **Zig**-Fun to learn, good for high-performance and low level control with enhanced safety
-- **Kotlin**-Really, REALLY nice with the [Ktor](https://ktor.io) framework, it makes API insanely easy (also mobile apps with KMP)
+- **Rust**-Safe, fun and Cargo is kawaii
 - **JS**-Absolutely terrible but also amazing
 - **TS**-JS but with types ;) (still a pain)
 - **Dart**-Really nice, performant and simple language with a familiar syntax and easy to make APIs in and software in general.
@@ -25,8 +24,8 @@ Our favorite technologies
 
 Our tech stack
 - Engine (Core, celestial_core)
-    - [C++](https://cplusplus.com/)-So amazing to work with, especially when you want high-level abstractions and low level control
-- [cirkl.ai](https://cirkl.ai) (Website)
+    - [Rust](https://rust-land.com/)-So amazing to work with, especially when you want high-level abstractions and low level control
+- [cirkl.ai](https://cirkl.ai) (Website and API)
     - [Fresh](https://fresh.deno.dev)-So nice, ez to self host and islands architecture
     - [Deno](https://deno.land)-Backbone of Fresh
 - Celestial (Anti-Malware solution)
@@ -35,12 +34,6 @@ Our tech stack
 - Discord Bot ([Our Discord](https://discord.com/invite/3yCfXJsbpD))
     - [Deno](https://deno.land)-As runtime
     - [TypeScript](https://www.typescriptlang.org/)-As language
-- API(s)
-    - [Kotlin](https://kotl.in)-As language
-    - [Ktor](https://ktor.io)-As framework
-- [Dactyl](https://github.com/CirklAI/dactyl.git)
-    - [Zig](https://ziglang.org)-As language
-    - Custom JSON5-based DSL-Rule language
 - [Registry](https://registry.cirkl.ai)
     - [Dart](https://dart.dev)-As language
     - [Pub](https://pub.dev)-As package manager
